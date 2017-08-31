@@ -1,0 +1,12 @@
+{
+  "name": "no-symlink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "do": "node vendor/child/script.js"
+  },
+  "dependencies": {
+    "child": "file:vendor/child"
+  }
+}

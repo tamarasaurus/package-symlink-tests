@@ -1,0 +1,8 @@
+{
+  "name": "package-symlink-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamarasaurus/package-symlink-tests.git",
+  "author": "Tamara Robichet <v0ld3m0r7@gmail.com>",
+  "license": "MIT"
+}
