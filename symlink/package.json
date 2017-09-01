@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "install": "npm install vendor/child --no-save",
+    "do": "NODE_PATH=./node_modules node vendor/child/script.js"
+  },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "child": "file:vendor/child"
   }
 }

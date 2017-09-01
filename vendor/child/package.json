@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "do": "node script.js"
   }
 }
